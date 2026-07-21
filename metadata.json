@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "A highly polished, responsive weather application featuring current weather, hourly and 7-day forecasts, search history, interactive map, multi-language support (English/Arabic), light/dark modes, and charts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
